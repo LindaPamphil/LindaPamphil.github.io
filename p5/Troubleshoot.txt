@@ -1,0 +1,2 @@
+In windows, to troubleshoot the problem, go to view, developer and developer tools in web browser.
+Then it'll show a lil messages about what's wrong with the html :)
